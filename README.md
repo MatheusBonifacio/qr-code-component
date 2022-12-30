@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Contagem Regressiva é um projeto onde é mostrado quantos dias, horas, minutos e segundos faltam para o fim do ano.
+Seguindo o desafio do [FrontEndMentor](https://frontendementor.io), foi desenvolvido um componente QR CODE.
 
 ## Licença
 
